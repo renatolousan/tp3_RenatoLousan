@@ -1,7 +1,9 @@
 # ufam-db-tp3
 
-Repositorio base para o Trabalho 3 de Banco de Dados da Graduação em Ciencia da Computação na UFAM
-[Link do trabalho](https://docs.google.com/document/d/17Uobq1brb6TbbCr64DWCEWG9J-LAGpgXuOC3BVpczx4/edit#)
+## Notas do launo para o monitor
+
+Tarsis, não consegui fazer as questões 8 e 9, considere isso na hora de corrigir. Além disso, a falta de comando para subir o postgres no README se deve ao fato de que usei o notebook para rodar os comandos para instalar o Postgres e o SQLite.
+
 
 ## Copiando esse repositorio
 
